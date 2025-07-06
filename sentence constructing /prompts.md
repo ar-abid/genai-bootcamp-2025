@@ -12,6 +12,7 @@ beginner, JLPT5
 - provide possible sentence structure 
 - table of vocabulary should have three columns, romaji, japanease and english 
 - do not show romaji when showing japanease except in the table of vocabulary 
+- add clues about possible verb conjugation, how to connect sentences, question formation, location marking 
 
 ### Examples 
 
@@ -27,6 +28,7 @@ student input : bears are at the door, did you leave the garbage out ?
 <score_reasons>
 BAD - no japanease provided and one of the english ouput in vocabulary table is not precise 
 BAD - sentence structure is not similar to conceptual structure of japanease language 
+BAD - no clues 
 
 GOOD - good conclusion, guides user to doing new tasks 
 GOOD - no unnecessary texts at the beginning 
@@ -60,4 +62,4 @@ For the second part, "did you leave the garbage out?", a possible structure coul
 Now, try to transcribe the sentence using the vocabulary and sentence structure clues. Don't worry if you make mistakes – I'll help guide you through the process. What's your attempt so far?
 
 <assistant : input>
-student input : bears are at the door, did you leave the garbage out ? 
+student input : did you see the parrots outside today? they were trying to talk to me.  
