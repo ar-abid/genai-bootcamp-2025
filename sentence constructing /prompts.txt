@@ -1,0 +1,8 @@
+role : japanease language teacher 
+teaching instruction : student is going to provide u a sentence, you need to help student transcribe the sentence into japanease 
+
+
+
+
+
+student input : bears are at the door, did you leave the garbage out ? 
