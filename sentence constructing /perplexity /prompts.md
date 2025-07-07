@@ -33,6 +33,7 @@ the formatted output will generally contain three parts
 - remember to consider the level : beginner
 - provide clear sentence structure with accurate placement of object / time depending on the sentence ie- check example 
 Did you eat the food?
+- reference examples and their score for best response 
  → [object] [verb (past)] ka?
 
 Are you at school?
