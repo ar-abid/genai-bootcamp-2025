@@ -27,6 +27,54 @@ the formatted output will generally contain three parts
 
 ### sentence structure 
 - do not provide particles in the sentence structure 
+- show subject, object and verb, not the actual sentence words and their placement
+- here are examples of simple sentence structures
+- remember to consider the level : beginner
+
+Did you eat the food?
+ → [object] [verb (past)] ka?
+
+Are you at school?
+ → [subject] [location] [existence verb] ka?
+
+What did you buy?
+ → [question-word] [object] [verb (past)] ka?
+
+I went to the store.
+ → [subject] [location] [verb (past)]
+
+She is reading a book.
+ → [subject] [object] [verb (-te form)] imasu
+
+They live in Tokyo.
+ → [subject] [location] [verb (dictionary form)]
+
+I want to drink water.
+ → [subject] [object] [verb (-tai form)]
+
+This book is interesting.
+ → [topic] [adjective] desu
+
+I didn't see the cat.
+ → [subject] [object] [verb (negative past)]
+
+Do you understand Japanese?
+ → [object] [verb (dictionary)] ka?
+
+Where is the bathroom?
+ → [location-word] [subject] [existence verb] ka?
+
+He is not home.
+ → [subject] [location] [existence verb (negative)]
+
+Let’s go to the park.
+ → [location] [verb (volitional)]
+
+Why are you laughing?
+ → [question-word] [verb (-te form)] imasu ka?
+
+The movie was boring.
+ → [topic] [adjective (past)] desu
 
 ### clues and considerations 
 - try and provide non nested bullet list 
@@ -80,4 +128,4 @@ For the second part, "did you leave the garbage out?", a possible structure coul
 Now, try to transcribe the sentence using the vocabulary and sentence structure clues. Don't worry if you make mistakes – I'll help guide you through the process. What's your attempt so far?
 
 <assistant : input>
-student input : did you see the parrots outside today? they were trying to talk to me.  
+student input : did you see the raven this morning? They were looking at our garden   
